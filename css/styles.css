@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top {
+  background-color: blue;
+  border: solid 3px;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  position: absolute;
+  left: 460px;
+  top: 460px;
+
+}
+
+
+.middle {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: solid 20px;
+  position: absolute;
+  left: 220px;
+  top: 220px;
+
+}
+
+.bottom {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  border: solid 10px;
+  position: absolute;
+  left: 0px;
+  top: 0;
+}
